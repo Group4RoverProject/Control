@@ -8,6 +8,7 @@ const char* ssid = "DESKTOP-SIM2NC1 1364";
 const char* password = "o9O)5498";
 String serverName = "https://rover-flask-server-6w7fs.ondigitalocean.app/rover_test";
 
+
 unsigned long lastTime = 0;
 unsigned long timerDelay = 5000;
 
